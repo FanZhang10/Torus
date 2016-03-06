@@ -1,0 +1,12 @@
+[core]
+	bare = true
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[core]
+	repositoryformatversion = 0
+[remote "master"]
+	url = https://github.com/FanZhang10/Torus.git
+	fetch = +refs/heads/*:refs/remotes/master/*
+[remote]
+	pushdefault = master
