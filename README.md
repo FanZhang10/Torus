@@ -1,3 +1,0 @@
-# Torus
-# Torus
-# Torus
